@@ -53,7 +53,7 @@ confusion matrix of test data:
 
 
 
-## Project 2: GMM for clustering base on EM algorithm
+## Project 2: GMM for clustering based on EM algorithm
 
 This project realized the Gaussian Mixture Model (GMM) for unsupervised clustering, based on the Expectation Maximization (EM) algorithm.
 
