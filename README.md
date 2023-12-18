@@ -76,7 +76,7 @@ GMM clustering RI: 0.9574944071588366
 KMeans clustering RI: 0.6562863534675615
 ```
 
-| Clustering effect with our GMM        | Clustering effect with built-in K        |
+| Clustering effect with our GMM        | Clustering effect with built-in K-Means  |
 | ------------------------------------- | ---------------------------------------- |
 | ![](./screenshots/clustering-gmm.png) | ![](./screenshots/clustering-kmeans.png) |
 
