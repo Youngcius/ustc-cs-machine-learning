@@ -3,7 +3,7 @@
 This repository contains the implementation of some classical machine learning algorithms from scratch, for the course projects of USTC CS Machine Learning.
 
 
-## Requirements
+**Requirements**:
 
 ```
 numpy
