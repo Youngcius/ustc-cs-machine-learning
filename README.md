@@ -13,9 +13,9 @@ pandas
 seaborn
 ```
 
-## Project 1: Support Vector Machine (SVM) Classifier based on Sequential Minimal Optimization (SMO) Algorithm
+## Project 1: SVM Classifier based on SMO Algorithm
 
-This project realized a linear classifier based on the model of Support Vector Machine (SVM), using Sequential minimal optimization (SMO) algorithm to optimize super parameters.
+This project realized a linear classifier based on the Support Vector Machine (SVM) model, using Sequential Minimal Optimization (SMO) algorithm to optimize super parameters.
 
 - Dataset: [face.xlsx](./svm-smo/face.xlsx) is serial human face emotion data and labels. The dataset itself is not so large.
 
@@ -53,7 +53,10 @@ confusion matrix of test data:
 
 
 
-## Project 2: Gaussian Mixture Model (GMM) for clustering base on Expectation Maximization (EM) algorithm
+## Project 2: GMM for clustering base on EM algorithm
+
+This project realized the Gaussian Mixture Model (GMM) for unsupervised clustering, based on the Expectation Maximization (EM) algorithm.
+
 
 See [gmm-em/](./gmm-em/) folder for details, including source code, dataset and result report.
 
